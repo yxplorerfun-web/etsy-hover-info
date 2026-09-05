@@ -1,0 +1,8 @@
+#etsy-hover-info-box{position:fixed;z-index:2147483647;width:300px;box-sizing:border-box;padding:12px 15px 13px;background:#fff;border:1px solid #ddd;border-radius:13px;box-shadow:0 8px 28px rgba(0,0,0,.20);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;color:#222;display:none;pointer-events:none}
+#etsy-hover-info-box .title{font-size:16px;font-weight:750;padding:2px 0 9px;border-bottom:1px solid #e5e5e5;margin-bottom:2px}
+#etsy-hover-info-box .row{min-height:43px;display:flex;align-items:center;justify-content:space-between;gap:12px;border-bottom:1px solid #eee;font-size:14px}
+#etsy-hover-info-box .row:last-child{border-bottom:0}
+#etsy-hover-info-box .row span:first-child{color:#666}
+#etsy-hover-info-box .row b{font-weight:650;text-align:right;max-width:180px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+#etsy-hover-info-box .stars{font-size:16px;font-weight:800;margin-right:2px}
+#etsy-hover-info-box .review-count{font-weight:650}
